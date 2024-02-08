@@ -1,0 +1,8 @@
+DEBUG           - %1 -DEBUG -14  com.log4j.Logproparties.log4j   main-log4j appender sucessful
+2022-01-26 21:15:49,974INFO            - %1 -INFO -15  com.log4j.Logproparties.log4j   main-this is infoi
+2022-01-26 21:15:49,979ERROR           - %1 -ERROR -16  com.log4j.Logproparties.log4j   main-this iserror 
+2022-01-26 21:15:49,980DEBUG           - %1 -DEBUG -11  com.log4j.Logproparties.Demo   data-in dsata
+2022-01-26 21:15:49,980INFO            - %1 -INFO -12  com.log4j.Logproparties.Demo   data-in demo
+2022-01-26 21:15:49,980ERROR           - %1 -ERROR -13  com.log4j.Logproparties.Demo   data-error in demo cls 
+2022-01-26 21:15:49,980WARN            - %1 -WARN -14  com.log4j.Logproparties.Demo   data-in data method
+2022-01-26 21:15:49,980
